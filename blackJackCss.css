@@ -1,0 +1,42 @@
+body, html {
+    height: 100%;
+  }
+body {
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: gold;
+    text-align: center;
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 80px;
+    margin-top: 50px;
+    text-shadow: 0 8px black;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 9px;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+}
+button {
+    width: 13%;
+    height: 50px;
+    background-color: gold;
+    color: black;
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 43.5%;
+    margin-right: 43.5%;
+    border: 0;
+    box-shadow: 0 15px 15px 0 black;
+    border-radius: 25%;
+}
+.tips {
+    color: rgb(0, 238, 71);
+    text-align: center;
+    margin-bottom: 20px;
+}
